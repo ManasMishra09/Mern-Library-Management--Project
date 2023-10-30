@@ -30,7 +30,7 @@ router.post('/', async (request, response) => {
   }
 });
 
-// Route for Get All Books from database
+// Route for Get All Books from database.
 router.get('/', async (request, response) => {
   try {
     const books = await Book.find({});
