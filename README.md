@@ -1,5 +1,5 @@
 # Mern-Library-Management--Project
-# Installation :
+# Installation : npm install
 # Frontend :
 Npm create vite@latest;
 Project name: frontend;
