@@ -61,3 +61,6 @@ Add Book Modal: A modal interface is implemented to simplify the process of addi
 Improve User Experience (UX) with Beautiful Alerts: User interactions are enhanced with the implementation of elegant and informative alert notifications, providing an overall improved user experience.
 
 The MERN Stack Library Management project is a comprehensive system that not only manages books efficiently but also prioritizes user experience and aesthetics, making it a valuable tool for libraries and book enthusiasts.
+# Project Snapshots:
+![6e86b041-ed99-444f-aafc-44874c4c143c](https://github.com/ManasMishra09/Mern-Library-Management--Project/assets/92935580/1c069c3a-4dbf-4e4d-8389-db73802334fa)
+
