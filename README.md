@@ -9,6 +9,13 @@ Select a variant : Javascript;
 cd backend;
 npm run start;
 npm run dev;
+# Project Snapshots:
+![6e86b041-ed99-444f-aafc-44874c4c143c](https://github.com/ManasMishra09/Mern-Library-Management--Project/assets/92935580/1c069c3a-4dbf-4e4d-8389-db73802334fa)
+![74096885-3c44-491a-89e7-4d9e26f55bb0](https://github.com/ManasMishra09/Mern-Library-Management--Project/assets/92935580/d4e25a80-b9b8-4734-a0e3-21aac9ec1c8a)
+![532de780-cbf2-43c2-a11f-da8f7154b0a8](https://github.com/ManasMishra09/Mern-Library-Management--Project/assets/92935580/30d0a32f-d02b-42eb-815e-cc85deccbb00)
+![18cbffb0-ae61-45b8-a39e-6c894db1aa14](https://github.com/ManasMishra09/Mern-Library-Management--Project/assets/92935580/5d9de35e-4afb-4453-8ba6-1049dcbbcce4)
+![da49fc8c-bf0f-4d54-8ed6-25b6acd6957e](https://github.com/ManasMishra09/Mern-Library-Management--Project/assets/92935580/43bff56b-2faf-44ac-babe-90312dd6c81f)
+![3b529913-903a-48d2-91e8-f4a5f8c935a6](https://github.com/ManasMishra09/Mern-Library-Management--Project/assets/92935580/b05dd4e0-b524-4743-9523-09b5b010a29e)
 
 # Project Description:
 
@@ -61,6 +68,7 @@ Add Book Modal: A modal interface is implemented to simplify the process of addi
 Improve User Experience (UX) with Beautiful Alerts: User interactions are enhanced with the implementation of elegant and informative alert notifications, providing an overall improved user experience.
 
 The MERN Stack Library Management project is a comprehensive system that not only manages books efficiently but also prioritizes user experience and aesthetics, making it a valuable tool for libraries and book enthusiasts.
-# Project Snapshots:
-![6e86b041-ed99-444f-aafc-44874c4c143c](https://github.com/ManasMishra09/Mern-Library-Management--Project/assets/92935580/1c069c3a-4dbf-4e4d-8389-db73802334fa)
+
+
+
 
