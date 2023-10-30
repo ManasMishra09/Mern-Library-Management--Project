@@ -1,4 +1,7 @@
 # Mern-Library-Management--Project
+# Hosting : 
+Statically : https://manasmishra09.github.io/Mern-Library-Management--Project/
+Local:   http://localhost:5173/ 
 # Installation : npm install
 # Frontend :
 Npm create vite@latest;
